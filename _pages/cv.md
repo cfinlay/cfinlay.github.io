@@ -18,11 +18,11 @@ Education
 Work experience
 --------------
 * Data analyst, [Canadian Forest Service](https://www.nrcan.gc.ca/our-natural-resources/forests-forestry/13497), [Natural Resources Canada](https://www.nrcan.gc.ca/home), *Oct 2012 - Aug 2014*
-  * Developed statistical models to predict wood quality from historical climate data
-  * Created a C++ library to implement these models for use in forest modeling software
-  * Constructed, cleaned and maintained a massive database of historical tree-ring data
-  * Modelled the pine beetle invasion using techniques from applied math
-  * Synthesized climate model forecasts with ensemble modeling methods (in R)
+  * developed statistical models to predict wood quality from historical climate data
+  * created a C++ library to implement these models for use in forest modeling software
+  * constructed, cleaned and maintained a massive database of historical tree-ring data
+  * modelled the pine beetle invasion using techniques from applied math
+  * synthesized climate model forecasts with ensemble modeling methods (in R)
 
 * Guitar instructor, [Long & McQuade](https://www.long-mcquade.com/lessons/), *Sept 2010 - June 2013*
   * taught private music lessons to children, teens, and adults, tailored to student ability
@@ -31,7 +31,7 @@ Work experience
   * design an online web application (HTML/Javascript) implementing aerosol deposition models in the human lung, to help physician find proper aerosol dosages (for drug delivery by inhaler)
 
 * Patent analyst, [Lambert Intellectual Property Law](http://www.lambertlaw.ca/), *Summer 2012*
-  * Research patent viability, assist drafting & filing patents
+  * research patent viability, assist drafting & filing patents
 
 * Student researcher, Dept of Mathematics, University of Alberta, *Summers 2009 & 2010*
   * implement mathematical models describing tumour growth (in MATLAB)
@@ -70,6 +70,6 @@ Service and leadership
 Not a robot
 -----------
 * I'm a very active birder \[[for other twitchers, here's my eBird profile](https://ebird.org/profile/NDEyNjEw/CA)\]
-* These days I play a lot of pedal steel guitar, mostly with [Night Jar](https://www.facebook.com/Night-Jar-1881252635244578/).
+* These days I play a lot of pedal steel guitar, mostly with [Night Jar](https://www.facebook.com/Night-Jar-1881252635244578/)
 * I sing tenor in the [Monday Night Choir](http://www.mondaynightchoir.com/), and act as secretary for that organization
 
