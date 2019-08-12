@@ -10,50 +10,66 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+--------
+* Ph.D in Mathematics, McGill University, 2019 (expected)
+* B.Sc. (Hons) in Applied Mathematics, University of Alberta, 2011
+* Dip. Music in Jazz Performance, Grant MacEwan, 2007
 
 Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+--------------
+* Data analyst, [Canadian Forest Service](https://www.nrcan.gc.ca/our-natural-resources/forests-forestry/13497), [Natural Resources Canada](https://www.nrcan.gc.ca/home), *Oct 2012 - Aug 2014*
+  * Developed statistical models to predict wood quality from historical climate data
+  * Created a C++ library to implement these models for use in forest modeling software
+  * Constructed, cleaned and maintained a massive database of historical tree-ring data
+  * Modelled the pine beetle invasion using techniques from applied math
+  * Synthesized climate model forecasts with ensemble modeling methods (in R)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Guitar instructor, [Long & McQuade](https://www.long-mcquade.com/lessons/), *Sept 2010 - June 2013*
+  * taught private music lessons to children, teens, and adults, tailored to student ability
+
+* Web designer (short-term contract), Aerosol Research Lab of Alberta, *Fall 2012*
+  * design an online web application (HTML/Javascript) implementing aerosol deposition models in the human lung, to help physician find proper aerosol dosages (for drug delivery by inhaler)
+
+* Patent analyst, [Lambert Intellectual Property Law](http://www.lambertlaw.ca/), *Summer 2012*
+  * Research patent viability, assist drafting & filing patents
+
+* Student researcher, Dept of Mathematics, University of Alberta, *Summers 2009 & 2010*
+  * implement mathematical models describing tumour growth (in MATLAB)
+  * supervised by [Thomas Hillen](http://www.math.ualberta.ca/~thillen/)
   
 Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+--------------
+* Strong coding and development background. Expert in Python, C++, MATLAB and R
+* Expert in developing deep learning architectures for computer vision: strong PyTorch background and comfortable in TensorFlow
+* Long-suffering Linux user, with over 10 years experience developing in CLI and remote environments 
+* Strong background in optimization algorithms
+* Experience developing and maintaing a codebase for a team of researchers and students
 
 Publications
-======
-  <ul>{% for post in site.publications %}
+--------------
+<ul>{% for post in site.publications reversed%}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Talks
-======
-  <ul>{% for post in site.talks %}
+--------------
+<ul>{% for post in site.talks  reversed%}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
 Teaching
-======
-  <ul>{% for post in site.teaching %}
+--------------
+<ul>{% for post in site.teaching reversed%}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Service and leadership
-======
-* Currently signed in to 43 different slack teams
+--------------
+* President of the Graduate Student Association of Mathematics and Statistics, McGill University, *2015-2017*
+
+Not a robot
+-----------
+* I'm a very active birder \[[for other twitchers, here's my eBird profile](https://ebird.org/profile/NDEyNjEw/CA)\]
+* These days I play a lot of pedal steel guitar, mostly with [Night Jar](https://www.facebook.com/Night-Jar-1881252635244578/).
+* I sing tenor in the [Monday Night Choir](http://www.mondaynightchoir.com/), and act as secretary for that organization
+
