@@ -3,7 +3,7 @@ title: "A principled approach for generating adversarial images under non-smooth
 collection: publications
 type: "manuscript"
 permalink: /publications/ProxLogBarrier
-authors: "Aram-Alexandre Pooladian, <b>Finlay, Chris</b>, and Adam M. Oberman"
+authors: "Aram-Alexandre Pooladian, <b>Finlay, Chris</b>, Tim Hoheisel, and Adam M. Oberman"
 excerpt: 
 date: 2019-08-05
 venue: '(preprint)'
