@@ -44,6 +44,7 @@ Skills
 * Long-suffering Linux user, with over 10 years experience developing in CLI and remote environments 
 * Strong background in optimization algorithms
 * Experience developing and maintaing a codebase for a team of researchers and students
+  * for example, see my [template for computer vision experiments](https://github.com/cfinlay/cv-classification-template), which is heavily used by members of the [Oberman lab](https://www.adamoberman.net/)
 
 Publications
 --------------
