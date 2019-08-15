@@ -28,7 +28,7 @@ Work experience
   * taught private music lessons to children, teens, and adults, tailored to student ability
 
 * Web designer (short-term contract), Aerosol Research Lab of Alberta, *Fall 2012*
-  * design an online web application (HTML/Javascript) implementing aerosol deposition models in the human lung, to help physician find proper aerosol dosages (for drug delivery by inhaler)
+  * design an online web application (HTML/Javascript) implementing aerosol deposition models in the human lung, to help physicians find proper aerosol dosages (for drug delivery by inhaler)
 
 * Patent analyst, [Lambert Intellectual Property Law](http://www.lambertlaw.ca/), *Summer 2012*
   * research patent viability, assist drafting & filing patents
