@@ -20,7 +20,7 @@ Before joining the zeitgeist, I studied algorithms for solving nonlinear
 elliptic Partial Differential Equations (PDEs). These are equations that
 describe "diffusion-like" behaviour, in that they have properties very similar
 to the Laplace operator. These types of equations are very common and describe
-a wide range of physical phenomenon in physics and engineering, including optimal control and inverse problems. 
+a wide range of physical phenomenon in physics and engineering, including optimal control (through the HJB operator) and inverse problems. 
 
 Prior to grad school, I worked as a data analyst for [Natural Resources
 Canada](https://www.nrcan.gc.ca/home); in ancient times I was a guitar
