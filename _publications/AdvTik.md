@@ -5,7 +5,7 @@ type: "manuscript"
 permalink: /publications/AdvTik
 authors: "<b>Finlay, Chris</b>, and Adam M. Oberman"
 excerpt: 
-date: 2019-05-28
+date: 2019-10-04
 venue: '(preprint)'
 arxivurl: 'https://arxiv.org/abs/1905.11468'
 giturl: 'https://github.com/cfinlay/tulip'
