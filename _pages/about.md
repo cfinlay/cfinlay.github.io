@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD candidate in applied mathematics at [McGill University](https://www.mcgill.ca/), working with
+I'm a PhD graduate in applied mathematics from [McGill University](https://www.mcgill.ca/), and was supervised by 
 [Adam Oberman](https://www.adamoberman.net/).  My research interests lie at the intersection of artificial intelligence, machine learning, and applied math. I'm a numerical analyst
 by training, which means I love creating and dissecting algorithms for use in
 scientific computing, and studying their convergence and stability properties.

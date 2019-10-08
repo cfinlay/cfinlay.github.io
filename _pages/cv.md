@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 --------
-* Ph.D in Mathematics, McGill University, 2019 (expected)
+* Ph.D in Mathematics, McGill University, 2019
 * B.Sc. (Hons) in Applied Mathematics, University of Alberta, 2011
 * Dip. Music in Jazz Performance, Grant MacEwan, 2007
 

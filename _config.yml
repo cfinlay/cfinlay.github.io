@@ -10,7 +10,7 @@ locale                   : "en-CA"
 title                    : "Chris Finlay"
 title_separator          : "-"
 name                     : &name "Chris Finlay"
-description              : &description "PhD candidate in applied math"
+description              : &description "Applied Math PhD"
 url                      : https://cfinlay.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io" baseurl                  : "" # the subpath of your site, e.g. "/blog"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "cfinlay.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Chris Finlay"
   avatar           : "profile-cropped.jpg"
-  bio              : "PhD candidate in applied math at McGill University, specializing in artificial intelligence and deep learning"
+  bio              : "Applied Math PhD currently at McGill University, specializing in artificial intelligence and deep learning"
   location         : "Montréal, Québec"
   employer         :
   pubmed           : 
