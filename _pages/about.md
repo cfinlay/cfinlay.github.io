@@ -15,12 +15,11 @@ scientific computing, and studying their convergence and stability properties.
 
 My current research interests include robust optimization for deep neural networks, unsupervised learning (density estimation and generative models), and neural ODEs. I am also actively studying connections between Variational Calculus, neural ODEs and optimal control.
 
-Before joining the zeitgeist, I studied algorithms for solving nonlinear
+Before jumping on the machine learning bandwagon, I studied algorithms for solving nonlinear
 elliptic Partial Differential Equations (PDEs). These are equations that
 describe "diffusion-like" behaviour, in that they have properties very similar
 to the Laplace operator. These types of equations are very common and describe
 a wide range of physical phenomenon in physics and engineering, including optimal control (through the HJB operator) and inverse problems. 
 
 Prior to grad school, I worked as a data analyst for [Natural Resources
-Canada](https://www.nrcan.gc.ca/home); in ancient times I was a guitar
-instructor and underemployed musician.
+Canada](https://www.nrcan.gc.ca/home).
