@@ -14,16 +14,20 @@ author_profile: true
 <h3>Year of Publication</h3>
 <ul style="padding-left: 1em;">
 {% for post in site.publications reversed  %}
+  {% if post.type != "manuscript" %}
   {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
   {% capture next_year %}{{ post.next.date | date: "%Y" }}{% endcapture %}
   {% if this_year != next_year %}
 <li style="display: inline; float:left; list-style-type: none; margin-right: 1em; margin-bottom: 0em;"><strong><a href="#{{this_year}}">{{this_year}}</a></strong></li>
   {% endif %}
+  {% endif %}
 {% endfor %}
+<li style="display: inline; float:left; list-style-type: none; margin-right: 1em; margin-bottom: 0em;"><strong><a href="#preprints">preprints</a></strong></li>
 </ul>
 <div style="clear: both;"></div>
 
 {% for post in site.publications reversed  %}
+  {% if post.type != "manuscript" %}
   {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
   {% capture next_year %}{{ post.previous.date | date: "%Y" }}{% endcapture %}
 
@@ -43,4 +47,19 @@ author_profile: true
   <ul>
   {% endif %}
   {% endif %}
+  {% endif %}
 {% endfor %}
+
+
+<h2 id="preprints">preprints</h2>
+{% for post in site.publications reversed  %}
+  {% if post.type == "manuscript" %}
+
+
+  <ul>
+  {% include publication-item.html %}
+  </ul>
+
+  {% endif %}
+{% endfor %}
+
