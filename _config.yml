@@ -12,6 +12,7 @@ title_separator          : "-"
 name                     : &name "Chris Finlay"
 description              : &description "Applied Math PhD"
 url                      : https://cfinlay.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io" baseurl                  : "" # the subpath of your site, e.g. "/blog"
+#url                      : localhost:4000 # the base hostname & protocol for your site e.g. "https://mmistakes.github.io" baseurl                  : "" # the subpath of your site, e.g. "/blog"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "cfinlay.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -188,6 +189,13 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  news:
+    defaults:
+      layout: post
+    output: true
+    permalink: /:collection/:path/
+
+news_limit: 5
 
 
 # Defaults

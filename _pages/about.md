@@ -23,3 +23,26 @@ a wide range of physical phenomenon in physics and engineering, including optima
 
 Prior to grad school, I worked as a data analyst for [Natural Resources
 Canada](https://www.nrcan.gc.ca/home).
+
+<div>
+  <h2>news</h2>
+  {% if site.news  %}
+    <table class="{{ include.type | default: "table" }}" style="margin-top: 1em; border: none; font-size: 14px;">
+    {% assign news = site.news | reverse %}
+    {% for item in news limit: site.news_limit %}
+      <tr>
+        <td style="border: none;" width="15%">{{ item.date | date: "%b %-d, %Y" }}</td>
+        <td style="border: none;">
+          {% if item.inline %}
+            {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
+          {% else %}
+            <a href="{{ item.url | prepend: site.baseurl }}">{{ item.title }}</a>
+          {% endif %}
+        </td>
+      </tr>
+    {% endfor %}
+    </table>
+  {% else %}
+    <p>No news so far...</p>
+  {% endif %}
+</div>
