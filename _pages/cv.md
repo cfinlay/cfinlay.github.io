@@ -17,6 +17,7 @@ Education
 
 Work experience
 --------------
+* Post-doctoral researcher, McGill University, *Jan 2020 - June 2020*
 * Data analyst, [Canadian Forest Service](https://www.nrcan.gc.ca/our-natural-resources/forests-forestry/13497), [Natural Resources Canada](https://www.nrcan.gc.ca/home), *Oct 2012 - Aug 2014*
   * developed statistical models to predict wood quality from historical climate data
   * created a C++ library to implement these models for use in forest modeling software
