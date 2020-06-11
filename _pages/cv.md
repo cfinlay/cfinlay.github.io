@@ -49,7 +49,9 @@ Skills
 Publications
 --------------
 <ul>{% for post in site.publications reversed%}
+  {% if post.type != "manuscript" %}
     {% include archive-single-cv.html %}
+  {% endif %}
   {% endfor %}</ul>
   
 Talks
