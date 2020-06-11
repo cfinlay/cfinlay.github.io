@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a post-doctoral researcher at [McGill University](https://www.mcgill.ca/) in machine learning, and a visiting research fellow at the [Institute for Pure and Applied Mathematics](https://www.ipam.ucla.edu/) at UCLA. My PhD was in applied math, where I was supervised by 
+I'm a post-doctoral researcher at [McGill University](https://www.mcgill.ca/) in machine learning. My PhD was in applied math, where I was supervised by 
 [Adam Oberman](https://www.adamoberman.net/).  My research interests lie at the intersection of artificial intelligence, machine learning, and applied math. I'm a numerical analyst
 by training, which means I love creating and dissecting algorithms for use in
 scientific computing, and studying their convergence and stability properties.
