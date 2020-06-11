@@ -27,7 +27,6 @@ author_profile: true
 <div style="clear: both;"></div>
 
 {% for post in site.publications reversed  %}
-  {% if post.type != "manuscript" %}
   {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
   {% capture next_year %}{{ post.previous.date | date: "%Y" }}{% endcapture %}
 
@@ -36,7 +35,9 @@ author_profile: true
   <ul class="publications">
   {% endif %}
 
+  {% if post.type != "manuscript" %}
   {% include publication-item.html %}
+  {% endif %}
 
   {% if forloop.last %}
   </ul>
@@ -45,7 +46,6 @@ author_profile: true
   </ul>
   <h2 id="{{next_year}}">{{next_year}}</h2>
   <ul>
-  {% endif %}
   {% endif %}
   {% endif %}
 {% endfor %}
