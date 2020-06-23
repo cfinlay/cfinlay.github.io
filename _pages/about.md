@@ -9,13 +9,14 @@ redirect_from:
 ---
 
 I'm a post-doctoral researcher at [McGill University](https://www.mcgill.ca/) in machine learning. My PhD was in applied math, where I was supervised by 
-[Adam Oberman](https://www.adamoberman.net/).  My research interests lie at the intersection of artificial intelligence, machine learning, and applied math. I'm a numerical analyst
-by training, which means I love creating and dissecting algorithms for use in
-scientific computing, and studying their convergence and stability properties.
+[Adam Oberman](https://www.adamoberman.net/).  My research interests lie at the intersection of deep learning, machine learning, and applied math.
 
-My current research interests include robust optimization for deep neural networks, unsupervised learning (density estimation and generative models), and neural ODEs. I am also actively studying connections between Variational Calculus, neural ODEs and optimal control.
+My current research includes robust optimization for deep neural networks,
+unsupervised learning (density estimation and generative models), and neural
+ODEs. I am also actively studying connections between Variational Calculus,
+neural ODEs and optimal control.
 
-Before jumping on the machine learning bandwagon, I studied algorithms for solving nonlinear
+Before jumping on the machine learning bandwagon, I studied numerical methods for solving nonlinear
 elliptic Partial Differential Equations (PDEs). These are equations that
 describe "diffusion-like" behaviour, in that they have properties very similar
 to the Laplace operator. These types of equations are very common and describe
