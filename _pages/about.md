@@ -21,11 +21,7 @@ Previously I was a post-doc at [McGill University](https://www.mcgill.ca/), in m
       <tr>
         <td style="border: none;" width="15%">{{ item.date | date: "%b %-d, %Y" }}</td>
         <td style="border: none;">
-          {% if item.inline %}
-            {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
-          {% else %}
-            <a href="{{ item.url | prepend: site.baseurl }}">{{ item.title }}</a>
-          {% endif %}
+          {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
         </td>
       </tr>
     {% endfor %}
