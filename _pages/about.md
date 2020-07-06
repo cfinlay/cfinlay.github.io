@@ -24,7 +24,7 @@ Previously I was a post-doc at [McGill University](https://www.mcgill.ca/), in m
           {% if item.inline %}
             {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
           {% else %}
-            <a href="{{ item.url | prepend: site.baseurl }}">{{ item.title }}</a>
+            {{ item.title }}
           {% endif %}
         </td>
       </tr>
