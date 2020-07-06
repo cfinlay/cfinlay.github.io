@@ -8,22 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm a post-doctoral researcher at [McGill University](https://www.mcgill.ca/) in machine learning. My PhD was in applied math, where I was supervised by 
+I'm a research scientist at [Deep Render](https://deeprender.ai/), working in image and video compression.
+Previously I was a post-doc at [McGill University](https://www.mcgill.ca/), in machine learning. My PhD was in applied math, where I was supervised by 
 [Adam Oberman](https://www.adamoberman.net/).  My research interests lie at the intersection of deep learning, machine learning, and applied math.
-
-My current research includes robust optimization for deep neural networks,
-unsupervised learning (density estimation and generative models), and neural
-ODEs. I am also actively studying connections between Variational Calculus,
-neural ODEs and optimal control.
-
-Before jumping on the machine learning bandwagon, I studied numerical methods for solving nonlinear
-elliptic Partial Differential Equations (PDEs). These are equations that
-describe "diffusion-like" behaviour, in that they have properties very similar
-to the Laplace operator. These types of equations are very common and describe
-a wide range of physical phenomenon in physics and engineering, including optimal control (through the HJB operator) and inverse problems. 
-
-Prior to grad school, I worked as a data analyst for [Natural Resources
-Canada](https://www.nrcan.gc.ca/home).
 
 <div>
   <h2>news</h2>

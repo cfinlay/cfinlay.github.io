@@ -10,7 +10,7 @@ locale                   : "en-CA"
 title                    : "Chris Finlay"
 title_separator          : "-"
 name                     : &name "Chris Finlay"
-description              : &description "Applied Math PhD"
+description              : &description "Applied Mathematician"
 url                      : https://cfinlay.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io" baseurl                  : "" # the subpath of your site, e.g. "/blog"
 #url                      : localhost:4000 # the base hostname & protocol for your site e.g. "https://mmistakes.github.io" baseurl                  : "" # the subpath of your site, e.g. "/blog"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -83,12 +83,12 @@ analytics:
 author:
   name             : "Chris Finlay"
   avatar           : "profile-cropped.jpg"
-  bio              : "Applied Math PhD currently at McGill University, specializing in artificial intelligence and deep learning"
+  bio              : "Research Scientist at Deep Render"
   location         : "Montréal, Québec"
-  employer         :
+  employer         : "Deep Render"
   pubmed           : 
   googlescholar    : "https://scholar.google.ca/citations?user=OnvqhuIAAAAJ&hl=en"
-  email            : "christopher.finlay@mcgill.ca"
+  email            : "chris.finlay@deeprender.ai"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   dblp             : "https://dblp.org/pid/227/1604"
   uri              :
