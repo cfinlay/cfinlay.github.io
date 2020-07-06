@@ -85,7 +85,7 @@ author:
   avatar           : "profile-cropped.jpg"
   bio              : "Research Scientist at Deep Render"
   location         : "Montréal, Québec"
-  employer         : "Deep Render"
+  employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.ca/citations?user=OnvqhuIAAAAJ&hl=en"
   email            : "chris.finlay@deeprender.ai"
