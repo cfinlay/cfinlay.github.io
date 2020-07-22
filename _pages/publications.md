@@ -51,7 +51,7 @@ author_profile: true
 {% endfor %}
 
 
-<h2 id="preprints">preprints</h2>
+<h2 id="preprints and workshops">preprints</h2>
 {% for post in site.publications reversed  %}
   {% if post.type == "manuscript" %}
 
