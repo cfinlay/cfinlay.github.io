@@ -22,7 +22,7 @@ author_profile: true
   {% endif %}
   {% endif %}
 {% endfor %}
-<li style="display: inline; float:left; list-style-type: none; margin-right: 1em; margin-bottom: 0em;"><strong><a href="#preprints and workshops">preprints</a></strong></li>
+<li style="display: inline; float:left; list-style-type: none; margin-right: 1em; margin-bottom: 0em;"><strong><a href="#preprints">preprints</a></strong></li>
 </ul>
 <div style="clear: both;"></div>
 
@@ -51,7 +51,7 @@ author_profile: true
 {% endfor %}
 
 
-<h2 id="preprints and workshops">preprints</h2>
+<h2 id="preprints">preprints and workshops</h2>
 {% for post in site.publications reversed  %}
   {% if post.type == "manuscript" %}
 
