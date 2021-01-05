@@ -5,7 +5,7 @@ type: "Journal Article"
 permalink: /publications/AdvTik
 authors: "<b>Finlay, Chris</b>, and Adam M. Oberman"
 excerpt: 
-date: 2021-01-01
+date: 2021-03-15
 venue: 'Machine Learning with Applications'
 doi: 'https://doi.org/10.1016/j.mlwa.2020.100017'
 arxivurl: 'https://arxiv.org/abs/1905.11468'
