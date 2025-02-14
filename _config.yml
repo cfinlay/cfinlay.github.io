@@ -82,7 +82,7 @@ analytics:
 # Site Author
 author:
   name             : "Chris Finlay"
-  avatar           : "profile-cropped.jpg"
+  avatar           : "1699349570204.jpg"
   bio              : "Research Scientist at Deep Render"
   location         : "London, UK"
   employer         :
@@ -178,7 +178,7 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
     output: true
@@ -187,12 +187,12 @@ collections:
     output: false
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
   news:
     defaults:
       layout: post
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 news_limit: 5
