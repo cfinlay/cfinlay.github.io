@@ -221,80 +221,116 @@ Adversarially Robust.”</span> <em>CoRR</em> abs/1808.09540.</span>
 <section id="patents" class="level1">
 <h1>Patents</h1>
 <dl>
+<dt>2025</dt>
+<dd>
+<span class="citation" data-cites="besenbruch2025a">Besenbruch, Chri et
+al. Image compression and decoding, video compression and decoding:
+Methods and systems. US 12256075 B2. Granted Patent, issued March 18,
+2025.</span>
+</dd>
 <dt>2024</dt>
-<dd>
-<span class="citation" data-cites="abbasi2024method">Abbasi, Bilal et
-al. Method and data processing system for lossy image or video encoding,
-transmission and decoding. US Patent 12113985, issued October 8,
-2024.</span>
-</dd>
-<dd>
-<span class="citation" data-cites="cherganski2024method">Cherganski,
-Aleksandar et al. Method and data processing system for lossy image or
-video encoding, transmission and decoding. US Patent 12026924, issued
-July 2, 2024.</span>
-</dd>
 <dd>
 <span class="citation" data-cites="besenbruch2024e">Besenbruch, Chri et
 al. Image compression and decoding, video compression and decoding:
-Methods and systems. US Patent 12028525, issued July 2, 2024.</span>
+Methods and systems. US 12160579 B2. Granted Patent, issued December 3,
+2024.</span>
 </dd>
 <dd>
-<span class="citation" data-cites="besenbruch2024d">Besenbruch, Chri et
+<span class="citation" data-cites="abbasi2024a">Abbasi, Bilal et al.
+Method and data processing system for lossy image or video encoding,
+transmission and decoding. US 12113985 B2. Granted Patent, issued
+October 8, 2024.</span>
+</dd>
+<dd>
+<span class="citation" data-cites="besenbruch2024i">Besenbruch, Chri et
 al. Image compression and decoding, video compression and decoding:
-Methods and systems. US Patent 12022077, issued June 25, 2024.</span>
+Methods and systems. US 12095994 B2. Granted Patent, issued September
+17, 2024.</span>
 </dd>
 <dd>
 <span class="citation" data-cites="besenbruch2024c">Besenbruch, Chri et
 al. Image compression and decoding, video compression and decoding:
-Methods and systems. US Patent 12015776, issued June 18, 2024.</span>
-</dd>
-<dd>
-<span class="citation" data-cites="besenbruch2024b">Besenbruch, Chri et
-al. Image compression and decoding, video compression and decoding:
-Methods and systems. US Patent 11985319, issued May 5, 2024.</span>
-</dd>
-<dd>
-<span class="citation" data-cites="finlay2024method">Finlay, Chris et
-al. Method and data processing system for lossy image or video encoding,
-transmission and decoding. US Patent 11936866, issued March 19,
+Methods and systems. US 12081759 B2. Granted Patent, issued September 3,
 2024.</span>
 </dd>
 <dd>
 <span class="citation" data-cites="besenbruch2024a">Besenbruch, Chri et
 al. Image compression and decoding, video compression and decoding:
-Training methods and training systems. US Patent 11881003, issued
-January 23, 2024.</span>
+Methods and systems. US 12075053 B2. Granted Patent, issued August 27,
+2024.</span>
+</dd>
+<dd>
+<span class="citation" data-cites="cherganski2024a">Cherganski,
+Aleksandar et al. Method and data processing system for lossy image or
+video encoding, transmission and decoding. US 12026924 B1. Granted
+Patent, issued July 2, 2024.</span>
+</dd>
+<dd>
+<span class="citation" data-cites="besenbruch2024f">Besenbruch, Chri et
+al. Image compression and decoding, video compression and decoding:
+Methods and systems. US 12028525 B2. Granted Patent, issued July 2,
+2024.</span>
+</dd>
+<dd>
+<span class="citation" data-cites="besenbruch2024d">Besenbruch, Chri et
+al. Image compression and decoding, video compression and decoding:
+Methods and systems. US 12022077 B2. Granted Patent, issued June 25,
+2024.</span>
+</dd>
+<dd>
+<span class="citation" data-cites="besenbruch2024g">Besenbruch, Chri et
+al. Image compression and decoding, video compression and decoding:
+Methods and systems. US 12015776 B2. Granted Patent, issued June 18,
+2024.</span>
+</dd>
+<dd>
+<span class="citation" data-cites="besenbruch2024b">Besenbruch, Chri et
+al. Image compression and decoding, video compression and decoding:
+Methods and systems. US 11985319 B2. Granted Patent, issued May 14,
+2024.</span>
+</dd>
+<dd>
+<span class="citation" data-cites="finlay2024a">Finlay, Chris et al.
+Method and data processing system for lossy image or video encoding,
+transmission and decoding. US 11936866 B2. Granted Patent, issued March
+19, 2024.</span>
+</dd>
+<dd>
+<span class="citation" data-cites="besenbruch2024h">Besenbruch, Chri et
+al. Image compression and decoding, video compression and decoding:
+Training methods and training systems. US 11881003 B2. Granted Patent,
+issued January 23, 2024.</span>
 </dd>
 <dt>2023</dt>
 <dd>
-<span class="citation" data-cites="besenbruch2023d">Besenbruch, Chri et
+<span class="citation" data-cites="besenbruch2023c">Besenbruch, Chri et
 al. Image encoding and decoding, video encoding and decoding: Methods,
-systems and training methods. US Patent 11843777, issued December 12,
-2023.</span>
+systems and training methods. US 11843777 B2. Granted Patent, issued
+December 12, 2023.</span>
 </dd>
 <dd>
-<span class="citation" data-cites="besenbruch2023c">Besenbruch, Chri et
+<span class="citation" data-cites="besenbruch2023a">Besenbruch, Chri et
 al. Image compression and decoding, video compression and decoding:
-Methods and systems. US Patent 11677948, issued June 13, 2023.</span>
+Methods and systems. US 11677948 B2. Granted Patent, issued June 13,
+2023.</span>
 </dd>
 <dd>
 <span class="citation" data-cites="besenbruch2023b">Besenbruch, Chri et
 al. Image encoding and decoding, video encoding and decoding: Methods,
-systems and training methods. US Patent 11606560, issued March 14,
-2023.</span>
+systems and training methods. US 11606560 B2. Granted Patent, issued
+March 14, 2023.</span>
 </dd>
 <dd>
-<span class="citation" data-cites="besenbruch2023a">Besenbruch, Chri et
+<span class="citation" data-cites="besenbruch2023d">Besenbruch, Chri et
 al. Image encoding and decoding, video encoding and decoding: Methods,
-systems and training methods. US Patent 11558620, issued January 17,
-2023.</span>
+systems and training methods. US 11558620 B2. Granted Patent, issued
+January 17, 2023.</span>
 </dd>
 <dd>
-<span class="citation" data-cites="finlay2023method">Finlay, Chris et
-al. Method and data processing system for lossy image or video encoding,
-transmission and decoding. US Patent 11544881, issued January 3,
-2023.</span>
+<span class="citation" data-cites="finlay2023a">Finlay, Chris et al.
+Method and data processing system for lossy image or video encoding,
+transmission and decoding. US 11544881 B1. Granted Patent, issued
+January 3, 2023.</span>
 </dd>
 </dl>
 <!--
